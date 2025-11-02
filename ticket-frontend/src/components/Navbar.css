@@ -1,0 +1,22 @@
+.navbar h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar ul li {
+  margin: 15px 0;
+}
+
+.navbar ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  text-decoration: underline;
+}
